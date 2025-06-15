@@ -35,3 +35,6 @@ TOOLS AND TECHNOLOGIES:
 --Power BI Desktop
 --Data modeling and transformation using Power BI
 --Visual storytelling through interactive dashboards and custom filters
+
+Developed by
+Naviya S.
