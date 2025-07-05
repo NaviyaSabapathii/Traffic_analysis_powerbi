@@ -22,7 +22,7 @@ KEY FEATURES:
 --Total number of crashes and average driver age
 --Number of crashes in high-speed zones and on weekends
 --Road user involvement including drivers, passengers, pedestrians, and cyclists
-![Screenshot 2025-05-02 152236](https://github.com/user-attachments/assets/89921b2e-790e-4a48-aaeb-0180b9fb13bc)
+![Screenshot 2025-05-02 152217](https://github.com/user-attachments/assets/facd841f-9115-4560-ac37-922207cefdef)
 
 
 KEY INSIGHTS:
